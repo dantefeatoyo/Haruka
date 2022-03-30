@@ -9,7 +9,7 @@ global.anti_delete = false
 // setting
 global.ownername ="𝑫𝒂𝒏𝒕𝒆𝒇𝒆𝒂𝒕𝒐𝒚𝒐"
 global.ownernumber = "6285217299771"
-global.botname = "Haruka-Bot"
+global.botname = "𝑫𝒂𝒏𝒕𝒆-Bot"
 global.thumbnail = fs.readFileSync("./settings/Haruka.jpg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
 global.lolkey = 'e966d3aac613b61dabd35cc6' //register lolhuman.xyz klo mau apikey
